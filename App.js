@@ -16,6 +16,8 @@
 
 // React.createElement returns an object, while rendering it is converted to DOM that is understood by Browser
 
+import React from "react";
+import ReactDOM from 'react-dom/client';
 const parent = React.createElement("div", {id:"parent"}, 
     React.createElement("div", {id:"children"}, 
         [React.createElement("h1",{},"Hello i am h1"),

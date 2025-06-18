@@ -1,0 +1,32 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "This is Namaste React and I am learning React",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ankur-Harshit/Namaste_React.git"
+  },
+  "keywords": [
+    "React",
+    "Ankur"
+  ],
+  "author": "Ankur Harshit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ankur-Harshit/Namaste_React/issues"
+  },
+  "homepage": "https://github.com/Ankur-Harshit/Namaste_React#readme",
+  "devDependencies": {
+    "parcel": "^2.15.2"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
