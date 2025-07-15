@@ -1,4 +1,7 @@
-a {
+@import "tailwindcss";
+
+
+/* a {
   text-decoration: none;
   color: inherit;
 }
@@ -72,4 +75,4 @@ a {
 }
 .filter {
     margin: 10px;
-}
+} */
